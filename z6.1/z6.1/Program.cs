@@ -11,6 +11,7 @@ namespace z6._1
         static void Main(string[] args)
         {
             Console.WriteLine("123");
+            //bgjukvjhvh
         }
     }
 }
